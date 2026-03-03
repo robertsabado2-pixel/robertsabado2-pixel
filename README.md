@@ -7,9 +7,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Installing osTicket](https://github.com/robertsabado2-pixel/installing-osticket)
-  - preparing-active-directory-infrastructure
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robertsabado2-pixel/azure-network-protocols)
+  - [Preparing-Active-Directory-Infrastructure](https://github.com/robertsabado2-pixel/azure-network-protocols)
 
 
 <h2>🤳Connect with me:</h2>
