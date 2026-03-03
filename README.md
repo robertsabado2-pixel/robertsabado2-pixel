@@ -10,8 +10,6 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robertsabado2-pixel/azure-network-protocols)
 
-- <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robertsabado2-pixel/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
