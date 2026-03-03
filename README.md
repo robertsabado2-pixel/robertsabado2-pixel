@@ -9,7 +9,7 @@
   - [Installing osTicket](https://github.com/robertsabado2-pixel/installing-osticket)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robertsabado2-pixel/azure-network-protocols)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/robertsabado2-pixel/ticket-lifecycle)
+
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robertsabado2-pixel/azure-network-protocols)
 
