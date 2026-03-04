@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Robert! 👋
 
 ### 👨‍💻 IT Professional | Cloud Enthusiast | Problem Solver
@@ -10,9 +8,10 @@ I specialize in streamlining IT operations and deploying cloud infrastructure. I
 
 ### 🛠️ Tech Stack & Tools
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Support](https://img.shields.io/badge/osTicket-f37022?style=for-the-badge&logo=osticket&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Support](https://img.shields.io/badge/osTicket-f37022.svg?style=for-the-badge&logo=osticket&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
@@ -27,6 +26,14 @@ I specialize in streamlining IT operations and deploying cloud infrastructure. I
 * **[Azure Active Directory Lab](https://github.com/robertsabado2-pixel/azure-network-protocols)**
     * Deployed a Virtual Machine network in Microsoft Azure.
     * Configured Network Security Groups (NSGs) and established Active Directory Domain Services.
+
+#### 🖥 Active Directory Lab
+* **[Azure AD Infrastructure & PowerShell User Creation](https://github.com/robertsabado2-pixel/ad-lab-with-powershell)**
+    * Created a Windows Server 2022 Domain Controller and Windows 10 Client VM in Azure.
+    * Configured static IP for DC, set client DNS to DC IP, and verified connectivity.
+    * Disabled Windows Firewall on DC for lab testing.
+    * Automated bulk user creation in Active Directory using PowerShell.
+    * Enabled Remote Desktop for domain users and tested login profiles.
 
 ---
 
